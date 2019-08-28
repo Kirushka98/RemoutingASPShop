@@ -1,0 +1,12 @@
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\bin\Debug\OTCHET.dll
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\bin\Debug\OTCHET.pdb
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.csprojAssemblyReference.cache
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.csproj.CoreCompileInputs.cache
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.dll
+C:\Users\Sandybon\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.pdb
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\bin\Debug\OTCHET.dll
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\bin\Debug\OTCHET.pdb
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.csprojAssemblyReference.cache
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.csproj.CoreCompileInputs.cache
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.dll
+C:\Users\Kirushka\Desktop\vaflin\OTCHET\OTCHET\obj\Debug\OTCHET.pdb
